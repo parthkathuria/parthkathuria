@@ -76,19 +76,19 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=parthkathuria&show_icons=true&count_private=true&hide_border=true&theme=github_dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=parthkathuria&show_icons=true&count_private=true&hide_border=true&theme=dark" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=parthkathuria&show_icons=true&count_private=true&hide_border=true&theme=default" alt="stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parthkathuria&layout=compact&hide_border=true&theme=github_dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parthkathuria&layout=compact&hide_border=true&theme=dark" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parthkathuria&layout=compact&hide_border=true&theme=default" alt="top languages" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=parthkathuria&hide_border=true&theme=github-dark-blue" />
-    <img src="https://streak-stats.demolab.com/?user=parthkathuria&hide_border=true&theme=default" alt="streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=parthkathuria&theme=github-dark-blue" />
+    <img src="https://streak-stats.demolab.com/?user=parthkathuria&theme=default" alt="streak" />
   </picture>
 
 </p>
