@@ -75,15 +75,19 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=parthkathuria&show_icons=true&count_private=true&hide_border=true&theme=github_dark#gh-dark-mode-only" alt="stats" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=parthkathuria&show_icons=true&count_private=true&hide_border=true&theme=default#gh-light-mode-only" alt="stats" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parthkathuria&layout=compact&hide_border=true&theme=github_dark#gh-dark-mode-only" alt="top languages" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parthkathuria&layout=compact&hide_border=true&theme=default#gh-light-mode-only" alt="top languages" />
+
+![stats](https://github-readme-stats-eight-theta.vercel.app/api?username=parthkathuria&show_icons=true&count_private=true&hide_border=true&theme=github_dark#gh-dark-mode-only)
+![stats](https://github-readme-stats-eight-theta.vercel.app/api?username=parthkathuria&show_icons=true&count_private=true&hide_border=true&theme=default#gh-light-mode-only)
+![top languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parthkathuria&layout=compact&hide_border=true&theme=github_dark#gh-dark-mode-only)
+![top languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parthkathuria&layout=compact&hide_border=true&theme=default#gh-light-mode-only)
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=parthkathuria&hide_border=true&theme=github-dark-blue#gh-dark-mode-only" alt="streak" />
-  <img src="https://streak-stats.demolab.com/?user=parthkathuria&hide_border=true&theme=default#gh-light-mode-only" alt="streak" />
+
+![streak](https://streak-stats.demolab.com/?user=parthkathuria&hide_border=true&theme=github-dark-blue#gh-dark-mode-only)
+![streak](https://streak-stats.demolab.com/?user=parthkathuria&hide_border=true&theme=default#gh-light-mode-only)
+
 </p>
 
 ---
