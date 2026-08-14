@@ -86,7 +86,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-plum-two.vercel.app/?user=parthkathuria&theme=default" alt="streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-plum-two.vercel.app/?user=parthkathuria&theme=github-dark-blue" />
+    <img src="https://github-readme-streak-stats-plum-two.vercel.app/?user=parthkathuria&theme=default" alt="streak" />
+  </picture>
 
 </p>
 
