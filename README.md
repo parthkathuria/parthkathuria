@@ -87,8 +87,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=parthkathuria&theme=github-dark-blue" />
-    <img src="https://streak-stats.demolab.com/?user=parthkathuria&theme=default" alt="streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-plum-two.vercel.app/?user=parthkathuria&theme=github-dark-blue" />
+    <img src="https://github-readme-streak-stats-plum-two.vercel.app/?user=parthkathuria&theme=default" alt="streak" />
   </picture>
 
 </p>
