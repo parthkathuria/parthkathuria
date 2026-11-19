@@ -76,12 +76,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=parthkathuria&show_icons=true&count_private=true&hide_border=true&theme=dark" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=parthkathuria&show_icons=true&count_private=true&hide_border=true&theme=default" alt="stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=parthkathuria&show_icons=true&count_private=true&hide_border=true&theme=dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parthkathuria&show_icons=true&count_private=true&hide_border=true&theme=default" alt="stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parthkathuria&layout=compact&hide_border=true&theme=dark" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parthkathuria&layout=compact&hide_border=true&theme=default" alt="top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkathuria&layout=compact&hide_border=true&theme=dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkathuria&layout=compact&hide_border=true&theme=default" alt="top languages" />
   </picture>
 </p>
 
